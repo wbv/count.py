@@ -1,0 +1,5 @@
+`count.py` counts characters and puts them into a dictionary, keyed by the character itself.
+
+`import count` to use in your own scripts, as is done in `example_script.py`.
+
+(I haven't put anything on GitHub in ages, so this is my 30-minute repentance.)
